@@ -1,0 +1,17 @@
+
+/archive.html
+/atom.xml
+/categories.html
+/feed.xml
+/index.html
+/about/index.html
+/index.html
+/page/index.html
+/pages.html
+/rss.xml
+/sitemap.txt
+/tags.html
+
+/articles/15/tufte-style-jekyll-blog
+/articles/15/welcome-to-jekyll
+/articles/11/jekyll-introduction
