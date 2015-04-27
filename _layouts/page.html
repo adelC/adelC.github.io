@@ -1,7 +1,8 @@
 ---
-theme :
-  name : tom
 layout: default
 ---
-{% include JB/setup %}
-{% include themes/tom/page.html %}
+<h1>{{ page.title | capitalize }}</h1>
+<p>{{ page.date | date: "%B %-d, %Y" }}</p>
+
+
+{{ content }}
