@@ -2,4 +2,4 @@
 layout: default
 ---
 {% include JB/setup %}
-{% include themes/tufte-jekyll-master/_layouts %}
+{% include themes/tf/_layouts %}
